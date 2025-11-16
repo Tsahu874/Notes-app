@@ -1,16 +1,57 @@
-# React + Vite
+# Notes App — React  
+A beautifully designed **Notes Application** built using **React + Vite**.  
+It supports **Categories, Search, CRUD, Theme Toggle (Pastel/Dark)** and **LocalStorage Persistence**.  
+Perfect for daily notes, task planning, and personal organization.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 📸 Preview  
+(Paste your project screenshots here)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features  
+### 📝 Notes Management  
+- Add new notes  
+- Edit existing notes  
+- Delete notes  
+- View full note in a right-side reading panel  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🎨 Beautiful Themes  
+- 🌸 **Pastel Lavender Theme** (Default)  
+- 🌙 **Dark Mode**  
 
-## Expanding the ESLint configuration
+### 🔍 Smart Searching  
+- Search notes instantly by title or description  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🗂 Category-wise Filtering  
+- All Notes  
+- Work  
+- Personal  
+- Ideas  
+
+### 💾 LocalStorage Support  
+- Notes automatically save in browser  
+- Data remains even after page refresh  
+
+### 🧭 Clean UI  
+- Responsive card grid  
+- Smooth shadows & modern design  
+- Three-dot menu for actions  
+
+---
+
+## 🚀 Tech Stack  
+- **React**  
+- **Vite**  
+- **JavaScript (ES6+)**  
+- **CSS (Inline Styled Components)**  
+- **LocalStorage API**
+
+---
+
+## 📦 Installation & Setup  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/your-username/notes-app-react.git
