@@ -5,11 +5,6 @@ Perfect for daily notes, task planning, and personal organization.
 
 ---
 
-## 📸 Preview  
-(Paste your project screenshots here)
-
----
-
 ## ✨ Features  
 ### 📝 Notes Management  
 - Add new notes  
