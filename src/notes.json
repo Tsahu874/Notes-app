@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Meeting Notes",
+    "description": "Discussion about project milestones and Q2 goals.",
+    "category": "Work",
+    "createdAt": "2025-01-12T09:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Grocery List",
+    "description": "Milk, Eggs, Bread, Coffee and some fruits.",
+    "category": "Personal",
+    "createdAt": "2025-01-15T15:30:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Feature Ideas",
+    "description": "Build real-time collaboration using WebSockets.",
+    "category": "Ideas",
+    "createdAt": "2025-01-16T10:15:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Budget Planning",
+    "description": "Plan next month's budget and track expenses.",
+    "category": "Work",
+    "createdAt": "2025-01-14T08:00:00Z"
+  }
+]
